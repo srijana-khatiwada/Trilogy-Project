@@ -1,0 +1,79 @@
+* {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+}
+.whole {
+  background: rgb(247, 244, 244);
+  /* margin: 40px; */
+  padding: 20px;
+  margin: 40px 80px;
+}
+.top {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+.date {
+  font-size: 40px;
+  text-align: center;
+  font-weight: lighter;
+}
+h3 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: lighter;
+}
+.paragraph {
+  font-size: 13;
+  border: 1px solid rgb(224, 222, 222);
+  box-sizing: border-box;
+  display: block;
+  padding-left: 3px;
+}
+.image {
+  margin-top: 5px;
+  border: 1px solid rgb(224, 222, 222);
+  box-sizing: border-box;
+  position: relative;
+}
+.thumbnail {
+  margin-top: 10px;
+  border-radius: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  /* margin-bottom: 5px; */
+}
+.imagename {
+  background: rgb(226, 223, 223);
+  text-align: center;
+  width: 27vw;
+  display: block;
+  margin: 13px auto 12px auto;
+}
+.lists {
+  font-size: 25px;
+  font-weight: lighter;
+}
+.bolddate {
+  font-weight: bold;
+}
+
+.description {
+  font-weight: lighter;
+  display: inline;
+}
+.divfooter {
+  font-style: italic;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.footer {
+  font-style: italic;
+  text-align: left;
+  font-weight: lighter;
+  margin: 40px 80px;
+}
